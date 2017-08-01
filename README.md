@@ -1,9 +1,14 @@
 # Deep Learning for Structure-Based Drug Design
 The resources about Deep Learning for Structure-Based Drug Design
 
-## 1. An Intuitive Explanation of Convolutional Neural Networks 
+## 1. Deep Learning for Beginners
+1. An Intuitive Explanation of Convolutional Neural Networks 
 - [English](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) 
 - [中文翻译](https://zhuanlan.zhihu.com/p/25754846)
+2. An Overview of Multi-Task Learning in Deep Neural Networks 
+- [url](http://ruder.io/multi-task/)
+- The basic idea of using deep learning for several SMALL biological datasets.
+- more, see [Massively Multitask Networks for Drug Discovery](https://arxiv.org/abs/1502.02072)
 
 ## 2. Review
 - deep-review: A collaboratively written review paper on deep learning, genomics, and precision medicine [github](https://github.com/yangjincai/deep-review) [paper](https://greenelab.github.io/deep-review/)
